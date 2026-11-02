@@ -1,0 +1,301 @@
+[
+  {"id":"toyota","name":"Toyota","models":[
+    {"id":"camry","name":"Camry","years":"2006-2024"},
+    {"id":"corolla","name":"Corolla","years":"2006-2024"},
+    {"id":"rav4","name":"RAV4","years":"2006-2024"},
+    {"id":"land-cruiser","name":"Land Cruiser","years":"2006-2024"},
+    {"id":"prius","name":"Prius","years":"2009-2024"},
+    {"id":"highlander","name":"Highlander","years":"2008-2024"},
+    {"id":"avalon","name":"Avalon","years":"2005-2022"},
+    {"id":"4runner","name":"4Runner","years":"2003-2024"},
+    {"id":"tundra","name":"Tundra","years":"2007-2024"},
+    {"id":"yaris","name":"Yaris","years":"2006-2020"}
+  ]},
+  {"id":"honda","name":"Honda","models":[
+    {"id":"accord","name":"Accord","years":"2008-2024"},
+    {"id":"civic","name":"Civic","years":"2006-2024"},
+    {"id":"crv","name":"CR-V","years":"2007-2024"},
+    {"id":"pilot","name":"Pilot","years":"2009-2024"},
+    {"id":"odyssey","name":"Odyssey","years":"2005-2024"},
+    {"id":"fit","name":"Fit / Jazz","years":"2007-2020"},
+    {"id":"hr-v","name":"HR-V","years":"2015-2024"}
+  ]},
+  {"id":"nissan","name":"Nissan","models":[
+    {"id":"altima","name":"Altima","years":"2007-2024"},
+    {"id":"maxima","name":"Maxima","years":"2009-2023"},
+    {"id":"sentra","name":"Sentra","years":"2007-2024"},
+    {"id":"rogue","name":"Rogue","years":"2008-2024"},
+    {"id":"murano","name":"Murano","years":"2009-2024"},
+    {"id":"pathfinder","name":"Pathfinder","years":"2005-2024"},
+    {"id":"qashqai","name":"Qashqai","years":"2007-2024"},
+    {"id":"x-trail","name":"X-Trail","years":"2007-2024"},
+    {"id":"patrol","name":"Patrol","years":"2010-2024"}
+  ]},
+  {"id":"mazda","name":"Mazda","models":[
+    {"id":"mazda3","name":"Mazda3","years":"2009-2024"},
+    {"id":"mazda6","name":"Mazda6","years":"2008-2024"},
+    {"id":"cx-5","name":"CX-5","years":"2012-2024"},
+    {"id":"cx-9","name":"CX-9","years":"2007-2024"},
+    {"id":"cx-30","name":"CX-30","years":"2019-2024"},
+    {"id":"mx-5","name":"MX-5 Miata","years":"2006-2024"}
+  ]},
+  {"id":"subaru","name":"Subaru","models":[
+    {"id":"forester","name":"Forester","years":"2008-2024"},
+    {"id":"outback","name":"Outback","years":"2009-2024"},
+    {"id":"impreza","name":"Impreza","years":"2007-2024"},
+    {"id":"legacy","name":"Legacy","years":"2009-2024"},
+    {"id":"xv","name":"XV / Crosstrek","years":"2012-2024"}
+  ]},
+  {"id":"mitsubishi","name":"Mitsubishi","models":[
+    {"id":"lancer","name":"Lancer","years":"2007-2017"},
+    {"id":"outlander","name":"Outlander","years":"2006-2024"},
+    {"id":"asx","name":"ASX","years":"2010-2024"},
+    {"id":"pajero","name":"Pajero","years":"2006-2024"}
+  ]},
+  {"id":"hyundai","name":"Hyundai","models":[
+    {"id":"solaris","name":"Solaris","years":"2011-2024"},
+    {"id":"elantra","name":"Elantra","years":"2006-2024"},
+    {"id":"sonata","name":"Sonata","years":"2009-2024"},
+    {"id":"tucson","name":"Tucson","years":"2009-2024"},
+    {"id":"santa-fe","name":"Santa Fe","years":"2006-2024"},
+    {"id":"creta","name":"Creta","years":"2016-2024"},
+    {"id":"accent","name":"Accent","years":"2006-2024"}
+  ]},
+  {"id":"kia","name":"Kia","models":[
+    {"id":"rio","name":"Rio","years":"2011-2024"},
+    {"id":"ceed","name":"Ceed","years":"2006-2024"},
+    {"id":"sportage","name":"Sportage","years":"2010-2024"},
+    {"id":"sorento","name":"Sorento","years":"2009-2024"},
+    {"id":"cerato","name":"Cerato","years":"2008-2024"},
+    {"id":"sorento","name":"Sorento","years":"2009-2024"}
+  ]},
+  {"id":"bmw","name":"BMW","models":[
+    {"id":"3-series","name":"3 Series (E90/F30/G20)","years":"2005-2024"},
+    {"id":"5-series","name":"5 Series (E60/F10/G30)","years":"2004-2024"},
+    {"id":"x3","name":"X3","years":"2010-2024"},
+    {"id":"x5","name":"X5","years":"2006-2024"},
+    {"id":"x1","name":"X1","years":"2009-2024"},
+    {"id":"1-series","name":"1 Series","years":"2004-2024"}
+  ]},
+  {"id":"mercedes-benz","name":"Mercedes-Benz","models":[
+    {"id":"c-class","name":"C-Class (W203/W204/W205)","years":"2000-2024"},
+    {"id":"e-class","name":"E-Class (W211/W212/W213)","years":"2002-2024"},
+    {"id":"s-class","name":"S-Class (W220/W221/W222)","years":"1998-2024"},
+    {"id":"glc","name":"GLC","years":"2015-2024"},
+    {"id":"gle","name":"GLE","years":"2015-2024"},
+    {"id":"a-class","name":"A-Class","years":"2012-2024"}
+  ]},
+  {"id":"audi","name":"Audi","models":[
+    {"id":"a3","name":"A3","years":"2003-2024"},
+    {"id":"a4","name":"A4","years":"2000-2024"},
+    {"id":"a6","name":"A6","years":"2004-2024"},
+    {"id":"q3","name":"Q3","years":"2011-2024"},
+    {"id":"q5","name":"Q5","years":"2008-2024"},
+    {"id":"q7","name":"Q7","years":"2005-2024"}
+  ]},
+  {"id":"volkswagen","name":"Volkswagen","models":[
+    {"id":"golf","name":"Golf","years":"2003-2024"},
+    {"id":"passat","name":"Passat","years":"2005-2024"},
+    {"id":"polo","name":"Polo","years":"2009-2024"},
+    {"id":"tiguan","name":"Tiguan","years":"2007-2024"},
+    {"id":"touareg","name":"Touareg","years":"2002-2024"},
+    {"id":"jetta","name":"Jetta","years":"2005-2024"}
+  ]},
+  {"id":"ford","name":"Ford","models":[
+    {"id":"focus","name":"Focus","years":"2004-2024"},
+    {"id":"fiesta","name":"Fiesta","years":"2008-2024"},
+    {"id":"mondeo","name":"Mondeo","years":"2007-2024"},
+    {"id":"kuga","name":"Kuga","years":"2008-2024"},
+    {"id":"explorer","name":"Explorer","years":"2010-2024"},
+    {"id":"ecosport","name":"EcoSport","years":"2013-2024"}
+  ]},
+  {"id":"chevrolet","name":"Chevrolet","models":[
+    {"id":"cruze","name":"Cruze","years":"2008-2024"},
+    {"id":"aveo","name":"Aveo","years":"2006-2024"},
+    {"id":"lacetti","name":"Lacetti","years":"2004-2013"},
+    {"id":"captiva","name":"Captiva","years":"2006-2018"},
+    {"id":"malibu","name":"Malibu","years":"2011-2024"}
+  ]},
+  {"id":"opel","name":"Opel","models":[
+    {"id":"astra","name":"Astra","years":"2004-2024"},
+    {"id":"corsa","name":"Corsa","years":"2006-2024"},
+    {"id":"insignia","name":"Insignia","years":"2008-2024"},
+    {"id":"zafira","name":"Zafira","years":"2005-2019"},
+    {"id":"vectra","name":"Vectra","years":"2002-2008"}
+  ]},
+  {"id":"renault","name":"Renault","models":[
+    {"id":"logan","name":"Logan","years":"2004-2024"},
+    {"id":"sandero","name":"Sandero","years":"2008-2024"},
+    {"id":"duster","name":"Duster","years":"2010-2024"},
+    {"id":"megane","name":"Megane","years":"2002-2024"},
+    {"id":"fluence","name":"Fluence","years":"2010-2024"},
+    {"id":"koleos","name":"Koleos","years":"2008-2024"}
+  ]},
+  {"id":"peugeot","name":"Peugeot","models":[
+    {"id":"308","name":"308","years":"2007-2024"},
+    {"id":"408","name":"408","years":"2010-2024"},
+    {"id":"508","name":"508","years":"2010-2024"},
+    {"id":"3008","name":"3008","years":"2009-2024"},
+    {"id":"2008","name":"2008","years":"2013-2024"}
+  ]},
+  {"id":"citroen","name":"Citroën","models":[
+    {"id":"c3","name":"C3","years":"2002-2024"},
+    {"id":"c4","name":"C4","years":"2004-2024"},
+    {"id":"c5","name":"C5","years":"2004-2024"},
+    {"id":"berlingo","name":"Berlingo","years":"2008-2024"},
+    {"id":"c4-cactus","name":"C4 Cactus","years":"2014-2024"}
+  ]},
+  {"id":"skoda","name":"Škoda","models":[
+    {"id":"octavia","name":"Octavia","years":"2004-2024"},
+    {"id":"rapid","name":"Rapid","years":"2012-2024"},
+    {"id":"kodiaq","name":"Kodiaq","years":"2016-2024"},
+    {"id":"karoq","name":"Karoq","years":"2017-2024"},
+    {"id":"superb","name":"Superb","years":"2008-2024"},
+    {"id":"fabia","name":"Fabia","years":"2006-2024"}
+  ]},
+  {"id":"volvo","name":"Volvo","models":[
+    {"id":"xc60","name":"XC60","years":"2008-2024"},
+    {"id":"xc90","name":"XC90","years":"2002-2024"},
+    {"id":"s60","name":"S60","years":"2010-2024"},
+    {"id":"v60","name":"V60","years":"2010-2024"},
+    {"id":"xc40","name":"XC40","years":"2017-2024"}
+  ]},
+  {"id":"lada","name":"Lada (ВАЗ)","models":[
+    {"id":"granta","name":"Granta","years":"2011-2024"},
+    {"id":"vesta","name":"Vesta","years":"2015-2024"},
+    {"id":"largus","name":"Largus","years":"2012-2024"},
+    {"id":"xray","name":"X-Ray","years":"2016-2024"},
+    {"id":"niva","name":"Niva / 4x4","years":"1977-2024"},
+    {"id":"kalina","name":"Kalina","years":"2004-2018"},
+    {"id":"priora","name":"Priora","years":"2007-2018"},
+    {"id":"2107","name":"2107","years":"1982-2012"},
+    {"id":"2110","name":"2110-2112","years":"1995-2014"},
+    {"id":"2114","name":"2114 / 2115","years":"1994-2013"},
+    {"id":"2109","name":"2109","years":"1987-2011"},
+    {"id":"2108","name":"2108","years":"1984-2003"}
+  ]},
+  {"id":"uaz","name":"УАЗ","models":[
+    {"id":"patriot","name":"Patriot","years":"2005-2024"},
+    {"id":"hunter","name":"Hunter","years":"2003-2024"},
+    {"id":"pickup","name":"Pickup","years":"2008-2024"},
+    {"id":"profi","name":"Profi","years":"2019-2024"}
+  ]},
+  {"id":"gaz","name":"ГАЗ","models":[
+    {"id":"gazelle","name":"Газель Next","years":"1994-2024"},
+    {"id":"sobol","name":"Соболь","years":"1998-2024"},
+    {"id":"volga","name":"Волга","years":"1956-2010"}
+  ]},
+  {"id":"geely","name":"Geely","models":[
+    {"id":"atlas","name":"Atlas","years":"2016-2024"},
+    {"id":"coolray","name":"Coolray","years":"2019-2024"},
+    {"id":"emgrand","name":"Emgrand","years":"2009-2024"},
+    {"id":"tugella","name":"Tugella","years":"2020-2024"}
+  ]},
+  {"id":"haval","name":"Haval","models":[
+    {"id":"f7","name":"F7","years":"2018-2024"},
+    {"id":"jolion","name":"Jolion","years":"2020-2024"},
+    {"id":"h9","name":"H9","years":"2014-2024"},
+    {"id":"dargo","name":"Dargo","years":"2021-2024"}
+  ]},
+  {"id":"chery","name":"Chery","models":[
+    {"id":"tiggo-7","name":"Tiggo 7","years":"2016-2024"},
+    {"id":"tiggo-8","name":"Tiggo 8","years":"2018-2024"},
+    {"id":"tiggo-4","name":"Tiggo 4","years":"2017-2024"},
+    {"id":"arrizo-8","name":"Arrizo 8","years":"2020-2024"}
+  ]},
+  {"id":"lexus","name":"Lexus","models":[
+    {"id":"rx","name":"RX","years":"2008-2024"},
+    {"id":"nx","name":"NX","years":"2014-2024"},
+    {"id":"es","name":"ES","years":"2006-2024"},
+    {"id":"is","name":"IS","years":"2005-2024"},
+    {"id":"gx","name":"GX","years":"2009-2024"},
+    {"id":"lx","name":"LX","years":"2008-2024"}
+  ]},
+  {"id":"infiniti","name":"Infiniti","models":[
+    {"id":"q50","name":"Q50","years":"2013-2024"},
+    {"id":"qx50","name":"QX50","years":"2013-2024"},
+    {"id":"qx60","name":"QX60","years":"2013-2024"},
+    {"id":"qx80","name":"QX80","years":"2010-2024"}
+  ]},
+  {"id":"acura","name":"Acura","models":[
+    {"id":"tlx","name":"TLX","years":"2014-2024"},
+    {"id":"rdx","name":"RDX","years":"2012-2024"},
+    {"id":"mdx","name":"MDX","years":"2013-2024"}
+  ]},
+  {"id":"genesis","name":"Genesis","models":[
+    {"id":"g70","name":"G70","years":"2017-2024"},
+    {"id":"g80","name":"G80","years":"2016-2024"},
+    {"id":"gv70","name":"GV70","years":"2020-2024"},
+    {"id":"gv80","name":"GV80","years":"2020-2024"}
+  ]},
+  {"id":"porsche","name":"Porsche","models":[
+    {"id":"cayenne","name":"Cayenne","years":"2010-2024"},
+    {"id":"macan","name":"Macan","years":"2014-2024"},
+    {"id":"panamera","name":"Panamera","years":"2016-2024"},
+    {"id":"911","name":"911","years":"2011-2024"}
+  ]},
+  {"id":"land-rover","name":"Land Rover","models":[
+    {"id":"range-rover","name":"Range Rover","years":"2012-2024"},
+    {"id":"discovery","name":"Discovery","years":"2017-2024"},
+    {"id":"defender","name":"Defender","years":"2020-2024"},
+    {"id":"evoque","name":"Range Rover Evoque","years":"2011-2024"}
+  ]},
+  {"id":"jaguar","name":"Jaguar","models":[
+    {"id":"xf","name":"XF","years":"2015-2024"},
+    {"id":"xe","name":"XE","years":"2015-2024"},
+    {"id":"f-pace","name":"F-Pace","years":"2016-2024"}
+  ]},
+  {"id":"fiat","name":"Fiat","models":[
+    {"id":"500","name":"500","years":"2007-2024"},
+    {"id":"panda","name":"Panda","years":"2011-2024"},
+    {"id":"tipo","name":"Tipo","years":"2015-2024"},
+    {"id":"ducato","name":"Ducato","years":"2006-2024"}
+  ]},
+  {"id":"alfa-romeo","name":"Alfa Romeo","models":[
+    {"id":"giulia","name":"Giulia","years":"2016-2024"},
+    {"id":"stelvio","name":"Stelvio","years":"2017-2024"}
+  ]},
+  {"id":"seat","name":"SEAT","models":[
+    {"id":"leon","name":"Leon","years":"2012-2024"},
+    {"id":"ateca","name":"Ateca","years":"2016-2024"},
+    {"id":"ibiza","name":"Ibiza","years":"2017-2024"}
+  ]},
+  {"id":"dacia","name":"Dacia","models":[
+    {"id":"duster","name":"Duster","years":"2017-2024"},
+    {"id":"logan","name":"Logan","years":"2012-2024"},
+    {"id":"sandero","name":"Sandero","years":"2012-2024"}
+  ]},
+  {"id":"ssangyong","name":"SsangYong","models":[
+    {"id":"tivoli","name":"Tivoli","years":"2015-2024"},
+    {"id":"korando","name":"Korando","years":"2019-2024"},
+    {"id":"rexton","name":"Rexton","years":"2017-2024"}
+  ]},
+  {"id":"isuzu","name":"Isuzu","models":[
+    {"id":"d-max","name":"D-Max","years":"2012-2024"},
+    {"id":"mu-x","name":"MU-X","years":"2013-2024"}
+  ]},
+  {"id":"great-wall","name":"Great Wall","models":[
+    {"id":"poer","name":"Poer","years":"2019-2024"},
+    {"id":"wingle","name":"Wingle","years":"2010-2024"}
+  ]},
+  {"id":"exeed","name":"Exeed","models":[
+    {"id":"txl","name":"TXL","years":"2021-2024"},
+    {"id":"vx","name":"VX","years":"2022-2024"},
+    {"id":"lx","name":"LX","years":"2021-2024"}
+  ]},
+  {"id":"omoda","name":"Omoda","models":[
+    {"id":"c5","name":"C5","years":"2022-2024"},
+    {"id":"s5","name":"S5","years":"2023-2024"}
+  ]},
+  {"id":"jac","name":"JAC","models":[
+    {"id":"js4","name":"JS4","years":"2021-2024"},
+    {"id":"js6","name":"JS6","years":"2022-2024"},
+    {"id":"t9","name":"T9","years":"2023-2024"}
+  ]},
+  {"id":"changan","name":"Changan","models":[
+    {"id":"cs35","name":"CS35 Plus","years":"2021-2024"},
+    {"id":"cs55","name":"CS55 Plus","years":"2021-2024"},
+    {"id":"cs75","name":"CS75 Plus","years":"2019-2024"},
+    {"id":"uni-k","name":"UNI-K","years":"2021-2024"}
+  ]}
+]
