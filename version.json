@@ -1,0 +1,15 @@
+{
+  "version": "1.0.1",
+  "updatedAt": "2026-11-02T00:00:00Z",
+  "app": {
+    "name": "AutoElectric Pro",
+    "version": "1.0.0"
+  },
+  "features": {
+    "diagnostics": true,
+    "schematics": true,
+    "scannerConnection": true,
+    "liveData": true,
+    "dtc": true
+  }
+}
