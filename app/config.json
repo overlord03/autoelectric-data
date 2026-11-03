@@ -1,0 +1,29 @@
+{
+  "app": {
+    "name": "AutoElectric Pro",
+    "version": "1.0.0",
+    "theme": {
+      "primary": "#00d4aa",
+      "secondary": "#0984e3",
+      "background": "#0b0e14"
+    }
+  },
+  "features": {
+    "diagnostics": true,
+    "schematics": true,
+    "scannerConnection": true,
+    "liveData": true,
+    "dtc": true
+  },
+  "ui": {
+    "showBrandLogos": true,
+    "defaultLanguage": "ru",
+    "animationsEnabled": true
+  },
+  "obd": {
+    "defaultProtocol": "auto",
+    "connectionTimeout": 10000,
+    "readTimeout": 3000,
+    "autoReconnect": true
+  }
+}
