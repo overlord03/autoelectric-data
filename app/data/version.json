@@ -1,0 +1,20 @@
+{
+  "version": "1.0.1",
+  "buildNumber": 2,
+  "updatedAt": "2026-11-03T00:00:00Z",
+  "downloadUrl": "https://overlord03.github.io/autoelectric-data/app/",
+  "mandatory": false,
+  "releaseNotes": "Добавлены новые марки (Getz, 407), поиск, простой режим, распиновки, блоки предохранителей",
+  "size": 0,
+  "app": {
+    "name": "AutoElectric Pro",
+    "version": "1.0.0"
+  },
+  "features": {
+    "diagnostics": true,
+    "schematics": true,
+    "scannerConnection": true,
+    "liveData": true,
+    "dtc": true
+  }
+}
