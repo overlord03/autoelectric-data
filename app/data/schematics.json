@@ -1,0 +1,256 @@
+[
+  {
+    "id": "car-starting",
+    "carBrandId": "universal",
+    "carModelIds": [],
+    "category": "starting-charging",
+    "title": "Система запуска (карта автомобиля)",
+    "description": "Интерактивная схема с видом сверху: АКБ, блок предохранителей, реле стартера, стартер, замок зажигания и вся проводка",
+    "tags": ["стартер", "не заводится", "реле", "замок зажигания", "карта", "интерактивная"],
+    "diagrams": [
+      {
+        "id": "car-starting-map",
+        "type": "location",
+        "title": "Карта системы запуска",
+        "description": "Расположение компонентов на автомобиле и трасса проводки",
+        "carLayout": "car-starting"
+      }
+    ],
+    "relatedComponents": ["АКБ", "Стартер", "Реле стартера", "Замок зажигания"]
+  },
+  {
+    "id": "car-charging",
+    "carBrandId": "universal",
+    "carModelIds": [],
+    "category": "starting-charging",
+    "title": "Система зарядки (карта автомобиля)",
+    "description": "Интерактивная схема с видом сверху: генератор, АКБ, цепь возбуждения, лампа зарядки",
+    "tags": ["генератор", "зарядка", "АКБ", "регулятор", "карта", "интерактивная"],
+    "diagrams": [
+      {
+        "id": "car-charging-map",
+        "type": "location",
+        "title": "Карта системы зарядки",
+        "description": "Расположение компонентов и трасса проводки зарядки",
+        "carLayout": "car-charging"
+      }
+    ],
+    "relatedComponents": ["Генератор", "АКБ", "Приборная панель"]
+  },
+  {
+    "id": "car-lighting",
+    "carBrandId": "universal",
+    "carModelIds": [],
+    "category": "lighting",
+    "title": "Наружное освещение (карта автомобиля)",
+    "description": "Интерактивная схема: фары, задние фонари, переключатель, проводка по кузову",
+    "tags": ["фары", "габариты", "свет", "фонари", "карта", "интерактивная"],
+    "diagrams": [
+      {
+        "id": "car-lighting-map",
+        "type": "location",
+        "title": "Карта системы освещения",
+        "description": "Расположение фар, фонарей и трасса проводки",
+        "carLayout": "car-lighting"
+      }
+    ],
+    "relatedComponents": ["Фара", "Задний фонарь", "Переключатель света"]
+  },
+  {
+    "id": "car-fuel-pump",
+    "carBrandId": "universal",
+    "carModelIds": [],
+    "category": "fuel-system",
+    "title": "Топливный насос (карта автомобиля)",
+    "description": "Интерактивная схема: ЭБУ, реле насоса, топливный насос в баке, проводка",
+    "tags": ["топливный насос", "бензонасос", "не заводится", "ЭБУ", "карта", "интерактивная"],
+    "diagrams": [
+      {
+        "id": "car-fuel-pump-map",
+        "type": "location",
+        "title": "Карта системы топливоподачи",
+        "description": "Расположение насоса, реле и трасса проводки",
+        "carLayout": "car-fuel-pump"
+      }
+    ],
+    "relatedComponents": ["Топливный насос", "Реле насоса", "ЭБУ"]
+  },
+  {
+    "id": "car-ignition",
+    "carBrandId": "universal",
+    "carModelIds": [],
+    "category": "ignition",
+    "title": "Система зажигания (карта автомобиля)",
+    "description": "Интерактивная схема: катушки зажигания, ЭБУ, ДПКВ, проводка",
+    "tags": ["зажигание", "катушки", "свечи", "ДПКВ", "ЭБУ", "карта", "интерактивная"],
+    "diagrams": [
+      {
+        "id": "car-ignition-map",
+        "type": "location",
+        "title": "Карта системы зажигания",
+        "description": "Расположение катушек, датчиков и трасса проводки",
+        "carLayout": "car-ignition"
+      }
+    ],
+    "relatedComponents": ["Катушка зажигания", "ЭБУ", "ДПКВ"]
+  },
+  {
+    "id": "car-cooling",
+    "carBrandId": "universal",
+    "carModelIds": [],
+    "category": "engine",
+    "title": "Вентилятор охлаждения (карта автомобиля)",
+    "description": "Интерактивная схема: вентилятор радиатора, реле, датчик температуры, ЭБУ",
+    "tags": ["вентилятор", "охлаждение", "перегрев", "датчик температуры", "карта", "интерактивная"],
+    "diagrams": [
+      {
+        "id": "car-cooling-map",
+        "type": "location",
+        "title": "Карта системы охлаждения",
+        "description": "Расположение вентилятора, реле, датчика и трасса проводки",
+        "carLayout": "car-cooling"
+      }
+    ],
+    "relatedComponents": ["Вентилятор", "Реле вентилятора", "ДТОЖ", "ЭБУ"]
+  },
+  {
+    "id": "toyota-camry-starting",
+    "carBrandId": "toyota",
+    "carModelIds": ["camry"],
+    "years": "2017-2024",
+    "category": "starting-charging",
+    "title": "Toyota Camry XV70 — Система запуска",
+    "description": "Интерактивная схема с реальным расположением компонентов: АКБ, блок предохранителей, реле стартера, стартер, кнопка Start/Stop",
+    "tags": ["стартер", "не заводится", "кнопка старт", "реле", "карта", "интерактивная", "camry"],
+    "diagrams": [
+      {
+        "id": "camry-starting-map",
+        "type": "location",
+        "title": "Карта системы запуска Camry",
+        "description": "Расположение компонентов и трасса проводки",
+        "carLayout": "toyota-camry-starting"
+      }
+    ],
+    "relatedComponents": ["АКБ", "Стартер", "Реле стартера", "Кнопка Start/Stop", "ECM"]
+  },
+  {
+    "id": "vw-golf-starting",
+    "carBrandId": "volkswagen",
+    "carModelIds": ["golf"],
+    "years": "2012-2020",
+    "category": "starting-charging",
+    "title": "VW Golf VII — Система запуска",
+    "description": "Интерактивная схема с реальным расположением: АКБ, блок SB, реле J906, стартер, J519, замок зажигания",
+    "tags": ["стартер", "не заводится", "J519", "J906", "карта", "интерактивная", "golf"],
+    "diagrams": [
+      {
+        "id": "golf-starting-map",
+        "type": "location",
+        "title": "Карта системы запуска Golf",
+        "description": "Расположение компонентов и трасса проводки",
+        "carLayout": "vw-golf-starting"
+      }
+    ],
+    "relatedComponents": ["АКБ", "Стартер", "Реле J906", "J519", "Замок зажигания"]
+  },
+  {
+    "id": "lada-granta-starting",
+    "carBrandId": "lada",
+    "carModelIds": ["granta"],
+    "years": "2018-2024",
+    "category": "starting-charging",
+    "title": "Lada Granta FL — Система запуска",
+    "description": "Интерактивная схема с реальным расположением: АКБ, монтажный блок, реле K2, стартер, замок зажигания",
+    "tags": ["стартер", "не заводится", "реле K2", "монтажный блок", "карта", "интерактивная", "granta", "lada"],
+    "diagrams": [
+      {
+        "id": "granta-starting-map",
+        "type": "location",
+        "title": "Карта системы запуска Granta",
+        "description": "Расположение компонентов и трасса проводки",
+        "carLayout": "lada-granta-starting"
+      }
+    ],
+    "relatedComponents": ["АКБ", "Стартер", "Реле K2", "Замок зажигания"]
+  },
+  {
+    "id": "bmw-f30-starting",
+    "carBrandId": "bmw",
+    "carModelIds": ["3-series"],
+    "years": "2012-2019",
+    "category": "starting-charging",
+    "title": "BMW F30 — Система запуска",
+    "description": "Интерактивная схема: АКБ в багажнике, FEM, CAS, стартер, кнопка Start/Stop, PT-CAN",
+    "tags": ["стартер", "не заводится", "CAS", "FEM", "карта", "интерактивная", "bmw", "f30"],
+    "diagrams": [
+      {
+        "id": "f30-starting-map",
+        "type": "location",
+        "title": "Карта системы запуска BMW F30",
+        "description": "Расположение компонентов и трасса проводки",
+        "carLayout": "bmw-f30-starting"
+      }
+    ],
+    "relatedComponents": ["АКБ", "Стартер", "CAS", "FEM", "Кнопка Start/Stop"]
+  },
+  {
+    "id": "mercedes-c-starting",
+    "carBrandId": "mercedes-benz",
+    "carModelIds": ["c-class"],
+    "years": "2014-2021",
+    "category": "starting-charging",
+    "title": "Mercedes C-class W205 — Система запуска",
+    "description": "Интерактивная схема: АКБ в багажнике, SAM Front, реле K40/7, стартер, EIS, кнопка Start/Stop",
+    "tags": ["стартер", "не заводится", "SAM", "EIS", "карта", "интерактивная", "mercedes", "w205"],
+    "diagrams": [
+      {
+        "id": "c-class-starting-map",
+        "type": "location",
+        "title": "Карта системы запуска C-class",
+        "description": "Расположение компонентов и трасса проводки",
+        "carLayout": "mercedes-c-starting"
+      }
+    ],
+    "relatedComponents": ["АКБ", "Стартер", "SAM", "EIS", "Кнопка Start/Stop"]
+  },
+  {
+    "id": "hyundai-solaris-starting",
+    "carBrandId": "hyundai",
+    "carModelIds": ["solaris"],
+    "years": "2017-2024",
+    "category": "starting-charging",
+    "title": "Hyundai Solaris — Система запуска",
+    "description": "Интерактивная схема: АКБ, блок предохранителей, реле стартера, стартер, замок зажигания",
+    "tags": ["стартер", "не заводится", "реле", "карта", "интерактивная", "hyundai", "solaris"],
+    "diagrams": [
+      {
+        "id": "solaris-starting-map",
+        "type": "location",
+        "title": "Карта системы запуска Solaris",
+        "description": "Расположение компонентов и трасса проводки",
+        "carLayout": "hyundai-solaris-starting"
+      }
+    ],
+    "relatedComponents": ["АКБ", "Стартер", "Реле стартера", "Замок зажигания"]
+  },
+  {
+    "id": "ford-focus-starting",
+    "carBrandId": "ford",
+    "carModelIds": ["focus"],
+    "years": "2011-2018",
+    "category": "starting-charging",
+    "title": "Ford Focus III — Система запуска",
+    "description": "Интерактивная схема: АКБ, BJB, реле K30, стартер, GEM, замок зажигания",
+    "tags": ["стартер", "не заводится", "BJB", "GEM", "карта", "интерактивная", "ford", "focus"],
+    "diagrams": [
+      {
+        "id": "focus-starting-map",
+        "type": "location",
+        "title": "Карта системы запуска Focus",
+        "description": "Расположение компонентов и трасса проводки",
+        "carLayout": "ford-focus-starting"
+      }
+    ],
+    "relatedComponents": ["АКБ", "Стартер", "BJB", "GEM", "Замок зажигания"]
+  }
+]
