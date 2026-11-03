@@ -1,0 +1,48 @@
+{
+  "name": "АвтоЭлектрик Pro",
+  "short_name": "AutoElectric",
+  "description": "Профессиональный помощник для автоэлектриков с диагностикой, схемами и инструкциями для сканеров",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#18181b",
+  "theme_color": "#3b82f6",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["utilities", "productivity"],
+  "shortcuts": [
+    {
+      "name": "Диагностика",
+      "short_name": "Диагностика",
+      "description": "Запустить пошаговую диагностику",
+      "url": "/",
+      "icons": [{ "src": "/icon-192.png", "sizes": "192x192" }]
+    },
+    {
+      "name": "Сканер",
+      "short_name": "Сканер",
+      "description": "Работа со сканером",
+      "url": "/",
+      "icons": [{ "src": "/icon-192.png", "sizes": "192x192" }]
+    },
+    {
+      "name": "Схемы",
+      "short_name": "Схемы",
+      "description": "Электрические схемы",
+      "url": "/",
+      "icons": [{ "src": "/icon-192.png", "sizes": "192x192" }]
+    }
+  ]
+}
