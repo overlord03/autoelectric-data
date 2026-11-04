@@ -1,8 +1,8 @@
 {
-  "version": "1.0.4",
-  "build": 6,
-  "url": "https://overlord03.github.io/autoelectric-data/updates/update-1.0.4.zip",
-  "mandatory": false,
-  "releaseNotes": "Новые функции и улучшения",
-  "size": 748342
+  "version": "1.0.5",
+  "build": 7,
+  "url": "https://overlord03.github.io/autoelectric-data/updates/update-1.0.5.zip",
+  "checksum": "",
+  "message": "Обновление доступно",
+  "mandatory": false
 }
