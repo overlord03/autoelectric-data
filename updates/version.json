@@ -1,8 +1,10 @@
 {
-  "version": "1.0.5",
-  "build": 7,
-  "url": "https://overlord03.github.io/autoelectric-data/updates/update-1.0.5.zip",
+  "version": "1.0.7",
+  "url": "https://overlord03.github.io/autoelectric-data/updates/update-1.0.7.zip",
   "checksum": "",
   "message": "Обновление доступно",
-  "mandatory": false
+  "mandatory": false,
+  "sessionKey": "",
+  "major": false,
+  "breaking": false
 }
